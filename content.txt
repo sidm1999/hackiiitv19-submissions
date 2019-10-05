@@ -1,0 +1,24 @@
+Problem statement:
+Help farmers from being saved from the hectic efforts of finding resources and also avoid them getting exploited greedy landlords.we provide them with the best available market options in the nearest area. 
+India ranks second worldwide in farm outputs. As per 2018, agriculture employed 50% of the Indian work force and contributed 17-18% to country's GDP.  That being said the farmers in India still face a lot of major problems and our team has tried to resolve some them with the help of technology.
+The problems taken in account are -
+Agricultural marketing 
+Lack of mechanism
+Manures ,fertilizers,biocides
+Seeds
+Loans
+Storage
+
+
+Agricultural marketing- most farmers are underpaid for their crops and therefore are not able to get a sustainable amount to make any profit at all.
+Lack of mechanization- farmers are less aware about most of the advanced machines , equipments and techniques.
+Manures, fertilizers and biocides -  due to misinformation and lack of awareness use of inadequate fertilizers degrades the quality of soil and also hinder crop growth.
+Seeds- farmers don’t get enough quantity and quality of seeds.
+loans - since the farmers fall into debt trap ,loans or financial aids play a very major role for farmers.
+Storage - Indian farmers incur Rs 92,651 crore per year in post-harvest losses, the primary causes of which are poor storage and transportation facilities. 
+
+
+
+Therefore, we suggest them the optimal market to sell their produce.
+
+
